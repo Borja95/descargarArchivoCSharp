@@ -1,0 +1,7 @@
+C:\Users\Borja\Documents\Tutoriales\AplicacionConsola3\AplicacionConsola3\bin\Debug\AplicacionConsola3.exe.config
+C:\Users\Borja\Documents\Tutoriales\AplicacionConsola3\AplicacionConsola3\bin\Debug\AplicacionConsola3.exe
+C:\Users\Borja\Documents\Tutoriales\AplicacionConsola3\AplicacionConsola3\bin\Debug\AplicacionConsola3.pdb
+C:\Users\Borja\Documents\Tutoriales\AplicacionConsola3\AplicacionConsola3\obj\Debug\AplicacionConsola3.csproj.AssemblyReference.cache
+C:\Users\Borja\Documents\Tutoriales\AplicacionConsola3\AplicacionConsola3\obj\Debug\AplicacionConsola3.csproj.CoreCompileInputs.cache
+C:\Users\Borja\Documents\Tutoriales\AplicacionConsola3\AplicacionConsola3\obj\Debug\AplicacionConsola3.exe
+C:\Users\Borja\Documents\Tutoriales\AplicacionConsola3\AplicacionConsola3\obj\Debug\AplicacionConsola3.pdb
